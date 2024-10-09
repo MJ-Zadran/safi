@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/safi/static/css/main.09dc7cf4.css",
-    "main.js": "/safi/static/js/main.679311bc.js",
-    "static/media/bg-img.jpg": "/safi/static/media/bg-img.ee5b6c93e1d20846ef58.jpg",
-    "index.html": "/safi/index.html",
-    "main.09dc7cf4.css.map": "/safi/static/css/main.09dc7cf4.css.map",
-    "main.679311bc.js.map": "/safi/static/js/main.679311bc.js.map"
+    "main.css": "/MJ-Zadran/safi.git/static/css/main.7c64fb5b.css",
+    "main.js": "/MJ-Zadran/safi.git/static/js/main.679311bc.js",
+    "static/media/bg-img.jpg": "/MJ-Zadran/safi.git/static/media/bg-img.ee5b6c93e1d20846ef58.jpg",
+    "index.html": "/MJ-Zadran/safi.git/index.html",
+    "main.7c64fb5b.css.map": "/MJ-Zadran/safi.git/static/css/main.7c64fb5b.css.map",
+    "main.679311bc.js.map": "/MJ-Zadran/safi.git/static/js/main.679311bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.09dc7cf4.css",
+    "static/css/main.7c64fb5b.css",
     "static/js/main.679311bc.js"
   ]
 }
