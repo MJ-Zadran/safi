@@ -1,0 +1,29 @@
+.contact-section{
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    background: #f9f9f9;
+    border-radius: 8px;
+}
+
+.contact-section form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.contact-section input{
+    width: 100%;
+    border: 1px solid var(--bg-text-lavender);
+    padding: 10px;
+    margin: 5px;
+}
+
+.contact-section textarea{
+    border: 1px solid var(--bg-text-lavender);
+    padding: 25px;
+    margin: 6px;
+    text-align:start;
+}

@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --bg-color-lavender: #640D5F;
+    --bg-text-green: #8e2288;
+    --bg-text-white: #ffffff;
+    --bg-text-black: #000;
+}
+
+body{
+    font-family: Oswald;
+}
+
+.btn{
+    padding: 12px 35px;
+    border: none;
+    border-radius: 4px;
+    background: var(--bg-color-lavender);
+    color: var(--bg-text-white);
+    margin-top: 16px;
+    font-size: 18px;
+    font-family: Oswald;
+}
+
+
+.btn:hover{
+    background: var(--bg-text-green);
+    box-shadow: 0px 0px 4px 4px rgba(0, 0, 0, 0.3);
+}
+
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    background: var(--bg-color-lavender);
+    color: var(--bg-text-white);
+    position: sticky;
+    top: 0;
+}
+
+.logo img{
+    width: 70px;
+    height: 70px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+}
+nav ul li{
+    margin-left: 20px;
+    padding: 2px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: var(--bg-text-white);
+    font-size: 18px;
+}
+nav ul li a:hover{
+    color: var(--bg-text-black);
+}
+
+.humberger {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.humberger span{
+    width: 30px;
+    height: 2px;
+    background: var(--bg-text-white);
+    margin: 4px 0;
+}
+
+
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Oswald;
+    font-size: 20px;
+    background: var(--bg-color-lavender);
+    color: var(--bg-text-white);
+}
+
+
+.footer a{
+    padding: 10px;
+    color: var(--bg-text-white);
+}
+
+.footer a:hover{
+    color: var(--bg-text-green);
+}
+
+@media (max-width: 768px){
+    nav ul{
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 60px;
+        right: 0;
+        background: var(--bg-color-lavender);
+        width: 100%;
+    }
+    nav ul.active{
+        display: flex;
+        padding-bottom: 10px;
+    }
+    .humberger{
+        display: flex;
+    }
+}
+
+
+

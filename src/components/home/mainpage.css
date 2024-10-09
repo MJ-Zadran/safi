@@ -1,0 +1,19 @@
+
+.home{
+    background: url("/public/image/bg-img.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.home-info{
+   text-align: center;
+   padding: 50px;
+}
+.home h1{
+    padding: 20px; 
+    font-size: 30px; 
+}
+.home h4{
+    padding-bottom: 15px;
+}
