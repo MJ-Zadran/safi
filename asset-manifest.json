@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MJ-Zadran/safi.git/static/css/main.7c64fb5b.css",
-    "main.js": "/MJ-Zadran/safi.git/static/js/main.679311bc.js",
+    "main.js": "/MJ-Zadran/safi.git/static/js/main.dfc42183.js",
     "static/media/bg-img.jpg": "/MJ-Zadran/safi.git/static/media/bg-img.ee5b6c93e1d20846ef58.jpg",
     "index.html": "/MJ-Zadran/safi.git/index.html",
     "main.7c64fb5b.css.map": "/MJ-Zadran/safi.git/static/css/main.7c64fb5b.css.map",
-    "main.679311bc.js.map": "/MJ-Zadran/safi.git/static/js/main.679311bc.js.map"
+    "main.dfc42183.js.map": "/MJ-Zadran/safi.git/static/js/main.dfc42183.js.map"
   },
   "entrypoints": [
     "static/css/main.7c64fb5b.css",
-    "static/js/main.679311bc.js"
+    "static/js/main.dfc42183.js"
   ]
 }
