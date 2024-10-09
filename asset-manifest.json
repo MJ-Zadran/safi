@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/safi/static/css/main.09dc7cf4.css",
-    "main.js": "/safi/static/js/main.dfc42183.js",
+    "main.js": "/safi/static/js/main.faca90e6.js",
     "static/media/bg-img.jpg": "/safi/static/media/bg-img.ee5b6c93e1d20846ef58.jpg",
     "index.html": "/safi/index.html",
     "main.09dc7cf4.css.map": "/safi/static/css/main.09dc7cf4.css.map",
-    "main.dfc42183.js.map": "/safi/static/js/main.dfc42183.js.map"
+    "main.faca90e6.js.map": "/safi/static/js/main.faca90e6.js.map"
   },
   "entrypoints": [
     "static/css/main.09dc7cf4.css",
-    "static/js/main.dfc42183.js"
+    "static/js/main.faca90e6.js"
   ]
 }
